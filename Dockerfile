@@ -1,1 +1,1 @@
-FROM daocloud.io/asiainfo_product/mysql-5-5-utf8
+FROM daocloud.io/asiainfo_product/mysql-5-5-utf8:master-init
